@@ -1,0 +1,3 @@
+#文件名为接口全限定名，将实现全限定名用文件管理，ServiceLoader会在META-INF文件夹下找到所有的实现类实例化
+implement.SpiImpl1
+implement.Spiimpl2
